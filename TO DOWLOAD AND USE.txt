@@ -1,0 +1,4 @@
+git clone https://github.com/triggered242/UNWANTED-TOLL.git
+cd UNWANTED-TOLL
+ls -la
+python3 'unwanted toll.py'
